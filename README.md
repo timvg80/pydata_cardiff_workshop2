@@ -2,4 +2,7 @@
 
 This workshop will work through the basics of the API in scikit-learn
 
-1. Click on the following link to launch the notebook server in a Binder environment. Note that this could take a little time, as a Docker container is built to serve this in the browser. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timvg80/pydata_cardiff_workshop2/master)
+* Go to the following [link](https://colab.research.google.com/?utm_source=scs-index) to create a new Colab Notebook
+    * Select the `Github` tab
+    * Paste in the following URL: https://github.com/pydatacardiff/pydata_cardiff_workshop2
+    * Then select: `scikit_learn_workshop.ipynb`
